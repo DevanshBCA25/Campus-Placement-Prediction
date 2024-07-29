@@ -1,0 +1,3 @@
+# Campus-Placement-Prediction
+This is my Task3 of the Campus-Placement-Prediction and they can help to best analysis and preprocessing the data. They are useful to begineer to  make a machine learning project
+Thank You.......
